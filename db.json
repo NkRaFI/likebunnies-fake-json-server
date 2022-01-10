@@ -1,16 +1,22 @@
 {
     "users": [
         {
-        "id": 1,
-        "name": "Post 1"
-        },
-        {
-        "id": 2,
-        "name": "Post 2"
-        },
-        {
-        "id": 3,
-        "name": "Post 3"
+            "username": "ruby",
+            "email": "ruby50895@gmail.com",
+            "firstname": "ruby",
+            "lastname": "m",
+            "country": "Tamilnadu",
+            "city": "Madurai",
+            "postal_code": "625005",
+            "gender": "female",
+            "date_of_birth": "1995-12-22",
+            "ethnicity": "other",
+            "other_ethnicity": "otherethnicity",
+            "profile_id": 710847,
+            "updated_at": "2022-01-10T05:33:21.000000Z",
+            "created_at": "2022-01-10T05:33:21.000000Z",
+            "id": 41,
+            "message": "User Created"
         }
     ]
 }
